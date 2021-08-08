@@ -1,0 +1,10 @@
+Projects 1
+In this project I carried out the following activities as described below. 
+
+1. I Created a folder and name it Project 1.
+2. Run the “Git init” command to initialize the folder as a git repository.
+3. Make changes to the folder; you can add whatever file you want.
+4. Stage the changes using “git add” command.
+5. Commit the changes with git commit.
+6. Create a remote repository.
+7. Link the local repository and remote repository.
